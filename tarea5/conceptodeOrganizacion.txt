@@ -1,0 +1,11 @@
+	==CONCEPTO DE ORGANIZACION==
+para mi el concepto de organizacion dentro de un centro de computo,
+es realizar un listado de tareas y actividades jerarquizada para simplificar y 
+llevar un control de las funciones que se llevaran acabo dentro del 
+centro de computo.
+
+ejemplo de organizacion en un centro de computo.
+un ejemplo seria llevar acabo la organizacion de un proyecto dentro de CC 
+con un listado jerarquizado de las tareas a realizar empezando por las mas 
+importantes, delegando responsabilidades a cada uno de los empleados 
+involucrados en dicho proyecto.
